@@ -13,4 +13,4 @@ def crazy_strings
   puts ("Hello" ,"Friends").reverse
 end
 
-puts crazy_strings
+crazy_strings
