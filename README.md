@@ -10,4 +10,7 @@ Write a method `crazy_strings` that takes in two strings as arguments. The first
 For example, `crazy_strings("Hello", "Friends")` should return `"OLLEH fRIENDZ"`.
 
 def crazy_strings
-  puts ("Hello" ,"Friends") 
+  puts ("Hello" ,"Friends").reverse
+end
+
+
